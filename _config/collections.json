@@ -1,0 +1,43 @@
+{
+  "-753f8c5c": {
+    "collection": "partners",
+    "query": {
+      "sort": [
+        "created-on"
+      ]
+    }
+  },
+  "-3387e785": {
+    "collection": "team",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "admin",
+          "operatorName": "eq",
+          "value": "true"
+        }
+      ],
+      "sort": [
+        "created-on"
+      ]
+    }
+  },
+  "-326e19d6": {
+    "collection": "team",
+    "query": {
+      "sort": [
+        "created-on"
+      ],
+      "fields": [
+        {
+          "fieldPath": "advisor",
+          "operatorName": "eq",
+          "value": "true"
+        }
+      ]
+    }
+  },
+  "-26960f74": {
+    "collection": "globe_points"
+  }
+}
