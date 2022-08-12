@@ -1,22 +1,17 @@
 ---
-advisor: false
-_archived: false
-_draft: false
-created-on: "2021-07-18T21:12:16.592Z"
-position: "Founder"
-medical-board: false
-name: "Anisha Musti"
-slug: "anisha-musti"
-admin: true
-updated-on: "2021-07-18T23:13:49.495Z"
-location: "📍 New York, USA"
-link: "https://www.linkedin.com/in/anishamusti/"
+tags: team
+layout: single-team.html
+seo:
+  twitter:card: summary
 image:
-  url: "https://uploads-ssl.webflow.com/60f0cf85b0443a21cc45eddb/60f4996a9441c9ae5aea11f4_1586921082015.jpeg"
-  alt: ""
-published-on: "2021-07-18T23:13:49.495Z"
-tags: "team"
-layout: "single-team.html"
+  url: /static/images/amheadshot.jpg
+location: 📍New York, USA
+position: Founder
+link: https://www.linkedin.com/in/anishamusti/
+admin: true
+advisor: false
+name: Anisha Musti
+created-on: 2022-02-28T05:36:53.907Z
+updated-on: 2022-02-28T05:36:53.942Z
+published-on: 2022-02-28T05:36:53.977Z
 ---
-
-

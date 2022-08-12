@@ -13,8 +13,8 @@ link: https://www.linkedin.com/in/anthony-tan-972662195/
 admin: true
 medical-board: false
 name: Anthony Tan
-created-on: 2021-07-18T23:13:41.938Z
+created-on: 2022-02-28T05:39:43.238Z
 slug: anthony-tan
-updated-on: 2021-07-19T01:02:45.749Z
-published-on: 2021-07-19T01:02:45.749Z
+updated-on: 2022-02-28T05:39:43.258Z
+published-on: 2022-02-28T05:39:43.276Z
 ---
